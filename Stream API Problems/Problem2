@@ -1,5 +1,4 @@
 //2.Given a list of integers, use a Function<Integer, Integer> to:
-
 //square each number		-Function<Integer, Integer>    ---(this is used with map)---then print only squares greater than 20
 
 //In main class
